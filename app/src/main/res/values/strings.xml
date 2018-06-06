@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EECS1022W18 Lab6 TIC-TAC-TOE</string>
+
+    <string-array name="firstPlayer">
+        <item> X </item>
+        <item> Y </item>
+    </string-array>
+
+    <string-array name="rowSpinner">
+        <item> 1 </item>
+        <item> 2 </item>
+        <item> 3 </item>
+    </string-array>
+
+    <string-array name="colomnSpinner">
+        <item> 1 </item>
+        <item> 2 </item>
+        <item> 3 </item>
+    </string-array>
+
+</resources>
